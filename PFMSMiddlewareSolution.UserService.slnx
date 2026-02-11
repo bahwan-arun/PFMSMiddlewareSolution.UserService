@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PFMS.Middleware.API/PFMS.Middleware.API.csproj" />
+  <Project Path="PFMS.Middleware.Application/PFMS.Middleware.Application.csproj" />
+  <Project Path="PFMS.Middleware.Domain/PFMS.Middleware.Domain.csproj" />
+  <Project Path="PFMS.Middleware.Infrastructure/PFMS.Middleware.Infrastructure.csproj" />
+</Solution>
